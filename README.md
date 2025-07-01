@@ -27,3 +27,7 @@ The main objective is to build a functional and reusable data pipeline that:
 - pandas – Data manipulation and analysis
 - scikit-learn – Preprocessing (e.g., SimpleImputer, StandardScaler)
 - os – For handling file paths
+
+#OUTPUT
+
+[processed_data.csv](https://github.com/user-attachments/files/20995348/processed_data.csv)
